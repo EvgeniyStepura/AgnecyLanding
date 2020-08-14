@@ -7,18 +7,7 @@
     .wrapper {max-width: 100%;}
 }
 
-.footer_cols {display: flex;justify-content: space-between;  align-items: center;}
 
-.footer_logo {width:84px;display: block;}
-.footer_nav {
-    
-}
-.footer_right {display: flex;align-items: center;}
-
-
-.footer_top { padding: 10px 0; background:#000000;}
-.footer_bot { padding: 10px 0; }
-.footer_copy {font-size: 12px; text-align: center; font-family: $custom-font-family;} 
 
 @media screen and (max-width: 1199px) {  
     
